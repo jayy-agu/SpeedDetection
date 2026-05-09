@@ -1,2 +1,2 @@
-# SpeedDetection
-Monitor Speed
+# Crop/Weed Detection
+Agriculture nextlevel innovation
